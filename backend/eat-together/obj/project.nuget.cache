@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AYYkXfYnFkU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kirad\\Documents\\GitHub\\EatTogether\\backend\\eat-together\\eat-together.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kirad\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\kirad\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

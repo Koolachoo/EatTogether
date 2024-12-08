@@ -1,0 +1,6 @@
+@eat_together_HostAddress = http://localhost:5189
+
+GET {{eat_together_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
